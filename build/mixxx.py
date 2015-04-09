@@ -47,7 +47,7 @@ class MixxxBuild(object):
 
         if machine.lower() not in ['x86_64', 'x86', 'i686', 'i586',
                                    'alpha', 'hppa', 'mips', 'mipsel', 's390',
-                                   'sparc', 'ia64', 'armel', 'armhf', 'hurd-i386',
+                                   'sparc', 'ia64', 'armel', 'armhf', 'armv7l', 'hurd-i386',
                                    'sh3', 'sh4',
                                    'kfreebsd-amd64', 'kfreebsd-i386',
                                    'i486', 'i386', 'ppc', 'ppc64', 'powerpc',
